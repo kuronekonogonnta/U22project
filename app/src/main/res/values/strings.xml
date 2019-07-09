@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">U22Project</string>
+    <string name="time_block">時間帯</string>
+    <string name="breakfast_button">朝食</string>
+    <string name="lunch_button">昼食</string>
+    <string name="dinner_button">夕食</string>
+    <string name="people_number">人数</string>
+    <string name="price">価格帯</string>
+    <string name="genre">ジャンル</string>
+    <string name="search">検索</string>
+</resources>
